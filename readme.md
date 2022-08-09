@@ -11,7 +11,7 @@
 Add an explanation of the algorithm and how it works. Make sure to include details about how the code works, what it depends on, and any other relevant info. Add images or other descriptions for your project here. 
 
 It uses the posenet to reocognize who is presented to the camera.
-[Imgur](https://imgur.com/yENOVvF)
+[Imgur](https://imgur.com/LIEEMk0)
 
 
 ## Running this project
